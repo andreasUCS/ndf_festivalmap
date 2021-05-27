@@ -230,6 +230,19 @@
          "tilecount":30,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":6675,
+         "image":"Tiles\/floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floortileset",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
